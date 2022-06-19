@@ -1,0 +1,279 @@
+{
+    "gotoSymbolStack.currentStackPosition": 34,
+    "gotoSymbolStack.maxStackPosition": 34,
+    "gotoSymbolStack.filePositionInfo": [
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 177,
+                "character": 26
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 177,
+                "character": 32
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 209,
+                "character": 32
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 114,
+                "character": 26
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\test\\widget_test.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 14,
+                "character": 41
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 18,
+                "character": 29
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 53,
+                "character": 34
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 61,
+                "character": 56
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\material\\theme_data.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 1400,
+                "character": 20
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 61,
+                "character": 70
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\material\\text_theme.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 234,
+                "character": 37
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\material\\text_theme.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 143,
+                "character": 27
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 68,
+                "character": 33
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 53,
+                "character": 28
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 61,
+                "character": 55
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 77,
+                "character": 28
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\mybuttontext.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 13,
+                "character": 31
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\mybuttontext.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 13,
+                "character": 34
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\rendering\\flex.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 84,
+                "character": 3
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\rendering\\flex.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 77,
+                "character": 11
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\rendering\\flex.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 96,
+                "character": 3
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\Programs\\flutter\\packages\\flutter\\lib\\src\\rendering\\flex.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 96,
+                "character": 3
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 54,
+                "character": 24
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 5,
+                "character": 7
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 70,
+                "character": 18
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 29,
+                "character": 20
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 51,
+                "character": 21
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 29,
+                "character": 19
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_final_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 19,
+                "character": 21
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 79,
+                "character": 20
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 53,
+                "character": 29
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 29,
+                "character": 20
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\my_final_button.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 19,
+                "character": 19
+            }
+        },
+        {
+            "textFile": "c:\\Osema\\FlutterProjects\\first_app\\lib\\main.dart",
+            "viewColumn": 1,
+            "textPosition": {
+                "line": 19,
+                "character": 39
+            }
+        }
+    ],
+    "dart.lineLength": 0
+}
