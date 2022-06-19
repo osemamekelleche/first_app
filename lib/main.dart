@@ -1,5 +1,5 @@
-import 'package:first_app/my_button.dart';
-import 'package:first_app/my_heading_text.dart';
+import './my_button.dart';
+import './my_heading_text.dart';
 import 'package:flutter/material.dart';
 
 MyFirstAppState myFirstAppState = MyFirstAppState();

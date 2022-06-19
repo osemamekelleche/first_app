@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:first_app/my_button_text.dart';
+import './my_button_text.dart';
 
 // ignore: must_be_immutable
 class MyFinalButton extends StatelessWidget {

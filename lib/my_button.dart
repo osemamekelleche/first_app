@@ -1,8 +1,8 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors_in_immutables
 
-import 'package:first_app/my_final_button.dart';
-import 'package:first_app/main.dart';
-import 'package:first_app/my_heading_text.dart';
+import './my_final_button.dart';
+import './main.dart';
+import './my_heading_text.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable
