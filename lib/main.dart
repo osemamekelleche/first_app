@@ -45,6 +45,7 @@ class MyFirstAppState extends State<MyFirstApp> {
     // TODO: implement build
 
     return MaterialApp(
+      title: 'My First App',
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
